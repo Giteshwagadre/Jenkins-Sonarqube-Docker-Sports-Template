@@ -1,0 +1,16 @@
+.companyadd.intro-header {
+	color: black;
+	text-align: center;
+}
+
+.companyadd.container{
+margin-top:150px;
+background-color:black;
+width:100%;
+position:absolute;
+height:220px;
+}
+.companyadd.custom-tab-content{
+color:black;
+font-family: 'Open Sans', sans-serif;
+}
